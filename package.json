@@ -1,0 +1,25 @@
+{
+  "name": "execout",
+  "version": "1.0.0",
+  "description": "Execute the shell command and print output lively to the stdout",
+  "main": "execout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thanhpk/execout.git"
+  },
+  "keywords": [
+    "execute",
+    "live",
+    "shell",
+    "spawn"
+  ],
+  "author": "Pham Kieu Thanh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thanhpk/execout/issues"
+  },
+  "homepage": "https://github.com/thanhpk/execout#readme"
+}
