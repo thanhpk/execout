@@ -1,6 +1,6 @@
 {
   "name": "execout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Execute the shell command and print output lively to the stdout",
   "main": "execout.js",
   "scripts": {

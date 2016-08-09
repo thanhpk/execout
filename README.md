@@ -51,6 +51,6 @@ npm test
 
 This software is licensed under the terms of [the MIT license](https://opensource.org/licenses/mit-license.php). See the LICENSE.md files.
 
-# Questions?
+# Questions
 
 If you have any questions, please feel free to send me an email at `thanhpk@live.com`.
